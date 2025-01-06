@@ -76,10 +76,11 @@ padding: 1em 0 0.5em 0;
     .swiper-button-prev, 
     .swiper-button-next{
     display: block;
-    top:35%;
+    top: 60%;
 }
+
 .card{
-    width: 70%;
+    width: 40%;
    margin: 2em auto;
 }
 }
