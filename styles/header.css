@@ -112,10 +112,10 @@ background-image: url(../images/Menu\ Aberto.svg);
     .opções__item{
         padding: 2em 1em;
     }
-        .Lista-menu__item:hover{
+        .Lista-menu__titulo:hover{
             background: var(--azul);  
         }
-        .Lista-menu__item:hover > .Lista-menu__link{
+        .Lista-menu__titulo:hover > .Lista-menu__link{
             -webkit-text-fill-color: var(--branco);
             text-decoration: none;
         }
